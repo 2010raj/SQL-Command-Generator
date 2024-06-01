@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SQL-Command-Generator/static/css/main.c2cdc9d9.css",
+    "main.js": "/SQL-Command-Generator/static/js/main.f056c62c.js",
+    "index.html": "/SQL-Command-Generator/index.html",
+    "main.c2cdc9d9.css.map": "/SQL-Command-Generator/static/css/main.c2cdc9d9.css.map",
+    "main.f056c62c.js.map": "/SQL-Command-Generator/static/js/main.f056c62c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cdc9d9.css",
+    "static/js/main.f056c62c.js"
+  ]
+}
